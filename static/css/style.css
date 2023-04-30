@@ -5,3 +5,23 @@ h5 {
 h1 {
     text-align: center;
 }
+#young-female {
+    width: 500px;
+    height: 600px;
+    background: #4da1f7;
+}
+#older-female {
+    width: 500px;
+    height: 600px;
+    background: #002137;
+}
+#young-male {
+    width: 500px;
+    height: 600px;
+    background: #ff0000;
+}
+#older-male {
+    width: 500px;
+    height: 600px;
+    background: #8b0000;
+}
